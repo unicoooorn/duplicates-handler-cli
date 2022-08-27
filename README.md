@@ -1,4 +1,4 @@
-# duplicates-handler-cli
+# Duplicate file handler in Go
 
 Duplicate File Handler is a useful tool that can free some space on your drive.
 
